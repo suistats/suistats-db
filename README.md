@@ -1,3 +1,3 @@
 # suistats-db
 
-## 1 use Mongodb
+## 1. use Mongodb
